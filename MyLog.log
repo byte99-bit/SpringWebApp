@@ -1,0 +1,6 @@
+2021-12-20 19:57:25.280  INFO 1388 --- [main] c.example.demo.SbLoggingDemoApplication  : Starting SbLoggingDemoApplication using Java 1.8.0_261 on DESKTOP-MHKDPL5 with PID 1388 (C:\Users\monic\Documents\workspace-18JRTP\SB-Logging-Demo\target\classes started by monic in C:\Users\monic\Documents\workspace-18JRTP\SB-Logging-Demo)
+2021-12-20 19:57:25.282  INFO 1388 --- [main] c.example.demo.SbLoggingDemoApplication  : No active profile set, falling back to default profiles: default
+2021-12-20 19:57:25.711  INFO 1388 --- [main] c.example.demo.SbLoggingDemoApplication  : Started SbLoggingDemoApplication in 0.766 seconds (JVM running for 1.351)
+2021-12-20 19:57:25.714  INFO 1388 --- [main] com.example.demo.UserService             : **saveUser()::Method Execution Started**
+2021-12-20 19:57:25.714  INFO 1388 --- [main] com.example.demo.UserDao                 : **Record Inserted**
+2021-12-20 19:57:25.714  INFO 1388 --- [main] com.example.demo.UserService             : **saveUser()::Method Execution Started**
